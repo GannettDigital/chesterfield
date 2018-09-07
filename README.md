@@ -1,8 +1,8 @@
 # Chesterfield
 
 [![npm version](https://badge.fury.io/js/chesterfield.svg)](https://badge.fury.io/js/chesterfield)
-[![Build Status](https://travis-ci.org/jhaugh42/chesterfield.svg)](https://travis-ci.org/jhaugh42/chesterfield)
-[![Coverage Status](https://coveralls.io/repos/github/jhaugh42/chesterfield/badge.svg)](https://coveralls.io/github/jhaugh42/chesterfield)
+[![Build Status](https://travis-ci.org/GannettDigital/chesterfield.svg)](https://travis-ci.org/GannettDigital/chesterfield)
+[![Coverage Status](https://coveralls.io/repos/github/GannettDigital/chesterfield/badge.svg)](https://coveralls.io/github/GannettDigital/chesterfield)
 
 Chesterfield is wrapper for the Node JS Couchbase SDK for writing Functional Javascript.
 
@@ -13,7 +13,7 @@ npm install chesterfield --save
 
 ## Running Tests
 ```bash
-git clone https://github.com/jhaugh42/chesterfield.git
+git clone https://github.com/GannettDigital/chesterfield.git
 cd chesterfield
 npm test
 ```

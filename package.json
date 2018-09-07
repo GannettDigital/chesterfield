@@ -5,7 +5,7 @@
   "main": "lib/chesterfield.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhaugh42/chesterfield.git"
+    "url": "https://github.com/GannettDigital/chesterfield.git"
   },
   "description": "Couchbase SDK Wrapper For Functional Javascript",
   "dependencies": {
